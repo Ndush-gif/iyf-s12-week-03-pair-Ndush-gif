@@ -16,6 +16,9 @@ A shared repo for practising the team workflow we'll use for CommunityHub: branc
 3. Partner reviews, comments and approves
 4. Merge once approved
    
+3. Your partner reviews, comments and approves
+4. Merge once approved
+
 ## Status
 - [ ] Both profile cards merged
 - [ ] Both PRs reviewed and approved
