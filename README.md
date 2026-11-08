@@ -13,6 +13,9 @@ A shared repo for practising the team workflow we'll use for CommunityHub: branc
 ## Workflow
 1. Create a feature branch for your change
 2. Push the branch and open a pull request into `main`
+3. Partner reviews, comments and approves
+4. Merge once approved
+   
 3. Your partner reviews, comments and approves
 4. Merge once approved
 
