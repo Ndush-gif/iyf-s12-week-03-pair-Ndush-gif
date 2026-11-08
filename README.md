@@ -1,6 +1,6 @@
 # Pair Collaboration Lab
 
-A shared repo for practicing the team workflow we'll use for CommunityHub: branches, pull requests, code reviews and merge conflicts.
+A shared repository for practicing the team workflow we'll use for CommunityHub: branches, pull requests, code reviews and merge conflicts.
 
 ## Pair
 - **Lead:** [@Ndush-gif](https://github.com/Ndush-gif)
